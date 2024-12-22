@@ -1,7 +1,9 @@
 # Data Scientist
 
+#### Technical Skills: Python, R, SQL
+
 ### Education
-M.Sc. Business Analytics
+- M.Sc. Business Analytics | Georgetown University, Washington DC (Dec 2024)
 
 ### Work Experience
 Business Intelligence & Data Strategies Solutions Analyst II
