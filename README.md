@@ -1,7 +1,3 @@
-# Data Scientist
-
-#### Technical Skills: Python, R, SQL
-
 ### Education
 - M.Sc. Business Analytics | Georgetown University, McDonough School of Business | Washington DC (Dec 2024) 
 
